@@ -1,0 +1,48 @@
+# Images du Portfolio
+
+Ce dossier contient les images nécessaires au portfolio :
+
+## Images requises :
+
+1. **profile.jpg** - Photo professionnelle (300x300px recommandé)
+   - Format : JPG ou PNG
+   - Taille : Optimisée pour le web
+   - Style : Professionnel, souriant, fond neutre
+
+2. **project1.jpg** - Capture d'écran du projet E-commerce (400x300px)
+   - Interface utilisateur du site
+   - Montrant les fonctionnalités principales
+
+3. **project2.jpg** - Capture d'écran du projet Task Management (400x300px)
+   - Interface du tableau Kanban
+   - Vue d'ensemble de l'application
+
+4. **project3.jpg** - Capture d'écran du projet Weather Dashboard (400x300px)
+   - Interface du tableau de bord météo
+   - Graphiques et visualisations
+
+5. **project4.jpg** - Capture d'écran du projet Blog CMS (400x300px)
+   - Interface d'administration
+   - Éditeur de contenu
+
+6. **project5.jpg** - Capture d'écran du projet API REST (400x300px)
+   - Documentation Swagger
+   - Interface de test API
+
+7. **project6.jpg** - Capture d'écran du projet Mobile App (400x300px)
+   - Interface mobile
+   - Fonctionnalités principales
+
+## Conseils pour les images :
+
+- **Qualité** : Images nettes et bien éclairées
+- **Format** : JPG pour les photos, PNG pour les captures d'écran
+- **Taille** : Optimisées pour le web (max 500KB par image)
+- **Cohérence** : Style visuel cohérent entre toutes les images
+- **Responsive** : Images qui s'adaptent bien aux différentes tailles d'écran
+
+## Outils recommandés pour créer les images :
+
+- **Photos** : Adobe Lightroom, GIMP, Canva
+- **Captures d'écran** : Snagit, Greenshot, outils natifs OS
+- **Optimisation** : TinyPNG, ImageOptim, Squoosh
