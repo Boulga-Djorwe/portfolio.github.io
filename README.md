@@ -133,7 +133,7 @@ Pour toute question ou personnalisation, n'hésitez pas à me contacter !
 
 ## 📄 Licence
 
-Ce projet est libre d'utilisation pour vos besoins personnels et professionnels.
+Ce projet est personnel et toute utilisation pour vos besoins personnels et professionnels requiert mon avale.
 
 ---
 
